@@ -22,6 +22,7 @@ use_preset_vocabulary: true
 import_tables:
   - luna_pinyin
   # - luna_pinyin.extra_hanzi
+  - luna_pinyin.thuocl
   - luna_pinyin.sgmain
   - luna_pinyin.sgplus
   - luna_pinyin.sgplus2
