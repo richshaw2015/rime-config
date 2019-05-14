@@ -1,5 +1,6 @@
-# Rime词库增强包
-源自 BetterRime 词库增强包，贴吧：http://tieba.baidu.com/p/4125987751 
+# Rime词库简体中文增强包
+源自 BetterRime 词库增强包，贴吧：http://tieba.baidu.com/p/4125987751
+
 对词库进行了简体中文的转换，优化了部分配置项，适用于明月拼音和双拼
 
 ## 特点
