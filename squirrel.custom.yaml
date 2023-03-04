@@ -1,0 +1,15 @@
+# default.custom.yaml
+# save it to: 
+#   ~/.config/ibus/rime  (linux)
+#   ~/Library/Rime       (macos)
+#   %APPDATA%\Rime       (windows)
+
+patch:
+  "style/font_point": 16
+  "style/comment_font_point": 14
+  "style/label_font_point": 14
+  "style/corner_radius": 8
+  "style/line_spacing": 4
+  "style/spacing": 8
+  "style/color_scheme": native
+  
